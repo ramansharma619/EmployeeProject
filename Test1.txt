@@ -1,1 +1,2 @@
 to demonstrate git branch merge
+and now its time do with cli
