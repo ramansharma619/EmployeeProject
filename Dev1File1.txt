@@ -5,3 +5,4 @@ modified by dev1
 1. feature 1 added
     extension of feature 1
     content in new feature branch 
+    Now this is new feature added in our project
