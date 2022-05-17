@@ -6,3 +6,4 @@ modified by dev1
     extension of feature 1
     content in new feature branch 
     Now this is new feature added in our project
+    New Feature added
